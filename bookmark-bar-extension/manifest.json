@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Mini Bookmark Bar",
+  "description": "Pin for quick access to your bookmark bar. No folders, just links.",
+  "version": "1.0",
+  "permissions": ["bookmarks"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "bookmark16.png",
+      "32": "bookmark32.png",
+      "48": "bookmark48.png",
+      "128": "bookmark128.png"
+    }
+  },
+  "icons": {
+    "16": "bookmark16.png",
+    "32": "bookmark32.png",
+    "48": "bookmark48.png",
+    "128": "bookmark128.png"
+  }
+}
