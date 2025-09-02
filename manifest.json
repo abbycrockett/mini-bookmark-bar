@@ -7,16 +7,16 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "bookmark16.png",
-      "32": "bookmark32.png",
-      "48": "bookmark48.png",
-      "128": "bookmark128.png"
+      "16": "pics/bookmark16.png",
+      "32": "pics/bookmark32.png",
+      "48": "pics/bookmark48.png",
+      "128": "pics/bookmark128.png"
     }
   },
   "icons": {
-    "16": "bookmark16.png",
-    "32": "bookmark32.png",
-    "48": "bookmark48.png",
-    "128": "bookmark128.png"
+    "16": "pics/bookmark16.png",
+    "32": "pics/bookmark32.png",
+    "48": "pics/bookmark48.png",
+    "128": "pics/bookmark128.png"
   }
 }
