@@ -15,13 +15,13 @@ function getFaviconUrl(url) {
       // Use local Google Docs icon for docs.google.com main page
       if (u.pathname.startsWith("/spreadsheets")) {
         // Use local Google Sheets icon for Google Sheets URLs
-  return "pics/google-sheets.png";
+        return "pics/google-sheets.png";
       }
-  return "pics/google-docs.png";
+      return "pics/google-docs.png";
     }
     if (u.hostname === "calendar.google.com") {
       // Use local Google Calendar icon for Google Calendar URLs
-  return "pics/google-calendar.png";
+      return "pics/google-calendar.png";
     }
     if (u.hostname.endsWith("github.io")) {
       // Use GitHub favicon for github.io sites
